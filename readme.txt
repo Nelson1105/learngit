@@ -4,6 +4,6 @@ Git is free software.
 add new text!
 add a license.
 Git tracks changes of files.
-My stupid boos still prefers SVN.
+My stupid boos still prefers SVN!
 
 
